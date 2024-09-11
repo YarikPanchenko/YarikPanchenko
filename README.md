@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" alt="GIF" src="https://github.com/NuCleoids/NuCleoids/blob/main/code.gif?raw=true" width="408" height="318"/>
+      <img align="center" alt="GIF" src="" width="408" height="318"/>
     </td>
     <td></td>
     </td>

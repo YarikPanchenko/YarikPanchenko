@@ -7,11 +7,7 @@
     <td>
       <img align="center" alt="GIF" src="https://github.com/NuCleoids/NuCleoids/blob/main/code.gif?raw=true" width="408" height="318"/>
     </td>
-    <td>
-      
-  [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaksNprogrammer&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/YarikPanchenko)
-      
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaksNprogrammer&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+    <td></td>
     </td>
   </tr>
 </table>
